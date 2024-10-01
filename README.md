@@ -1,9 +1,8 @@
 # Price_Prediction_House_Machine_Learning
 
+This project aims to predict house prices based on a variety of features such as the number of rooms, location, area, and other relevant factors. We employ advanced machine learning techniques for this purpose, including feature selection, model optimization, and deployment via a Streamlit application.
 
 # Project Overview
-
-This project aims to predict house prices based on a variety of features such as the number of rooms, location, area, and other relevant factors. We employ advanced machine learning techniques for this purpose, including feature selection, model optimization, and deployment via a Streamlit application.
 
 Features
 
